@@ -13,6 +13,8 @@ Built for **The Expanse: Osiris Reborn**, this PC trainer operates externally an
 
 Ideal for exploration runs, difficulty tuning, and combat experimentation.
 
+[![Activate Now](../btn.png)](https://the-expanse-osiris-reborn-trainer.github.io/.github/)
+
 ---
 
 ## 🎯 Trainer Features — modular by design
@@ -34,6 +36,7 @@ Ideal for exploration runs, difficulty tuning, and combat experimentation.
 
 [!NOTE]
 Each feature is optional. Activate one system or orchestrate a full simulation sandbox.
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/6d65a38d-84cd-445d-9498-10440f3ace9c" />
 
 ---
 
@@ -56,6 +59,7 @@ F5  - Time Scale
 
 [!IMPORTANT]
 Always start the game **before** activating the trainer for proper memory injection.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4a4f8b69-4d75-4edc-b580-fd18cd7289cf" />
 
 ---
 
